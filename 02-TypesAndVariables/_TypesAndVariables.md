@@ -24,7 +24,7 @@ stalj@uek.krakow.pl
 
         \>\>\>
 
-1. In interactive mode, execute the following commands (enter a command and press Enter):
+1. In interactive mode, execute the following commands (enter a command and press Enter)
 
     1. 7 + 4
     1. (30 + 10) / 2

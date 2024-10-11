@@ -1,0 +1,4 @@
+import math
+h = 5
+g = 8
+diagonal = math.sqrt(a**2 )
